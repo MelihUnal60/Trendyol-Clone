@@ -75,3 +75,9 @@ img{
 .text-green{
     color: rgb(6, 222, 6);
 }
+.cargo2{
+    border: 1px solid black;
+    padding: 2px 4px;
+    border-radius: 8px;
+    
+}
