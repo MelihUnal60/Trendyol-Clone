@@ -59,3 +59,19 @@ img{
 .cargo-time{
     font-weight: 500;
 }
+.fs{
+    font-size: 13px;
+}
+.bg-yellow{
+    background-color: rgb(251, 251, 241);
+}
+.bg-green{
+    background-color: rgb(4, 155, 4);
+    width: 20px;
+    height: 19px;
+    color: antiquewhite;
+    border-radius: 4px;
+}
+.text-green{
+    color: rgb(6, 222, 6);
+}
